@@ -1,0 +1,1 @@
+i * width * channel + j * channel + k
